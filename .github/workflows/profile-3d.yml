@@ -23,8 +23,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      # Generates Stats Card directly inside your repo
-      - uses: denvercoder1/github-readme-stats-action@v2
+      # Generates Stats Card (UPDATED NAMESPACE HERE)
+      - uses: stats-organization/github-readme-stats-action@v2
         with:
           path: profile-3d-contrib/github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
