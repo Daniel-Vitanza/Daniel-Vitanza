@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniel-Vitanza&show_icons=true&theme=default)
+![](./profile-3d-contrib/profile-night-view.svg)
