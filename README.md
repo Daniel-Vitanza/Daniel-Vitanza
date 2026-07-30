@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=Daniel-Vitanza&show_icons=true&theme=default)
+![](./profile-3d-contrib/github-stats.svg)
 ![](./profile-3d-contrib/profile-night-view.svg)
